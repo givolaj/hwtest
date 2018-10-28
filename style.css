@@ -1,0 +1,46 @@
+#div1{
+				width: 50%;
+				height: 50%; 
+				float: left;
+				background-color: red;
+			}			
+			
+			.color1 {
+				background-color: red !important;
+			}
+			.color2 {
+				background-color: #66aa22;
+			}
+			.color3 {
+				background-color: pink !important;
+			}
+			
+			
+			
+			.color4 {
+				background-color: #777;
+			}
+			
+			.size-50{
+				width: 50%;
+				height: 50%;
+			}
+			
+			div{
+				border-radius: 20px;
+			}
+			
+			.changingTitle{
+				color: green;				
+			}
+			
+			.changingTitle:hover{
+				color: blue;				
+			}
+			
+			#myImg{
+				width: 200px;
+				height: auto;
+				content: url('https://cdn1-www.dogtime.com/assets/uploads/2010/12/puppies.jpg');				
+			}
+			
